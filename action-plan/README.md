@@ -54,7 +54,6 @@ This action plan outlines the steps to build the AI Music Recommendation App ove
 
 ### Extra Resources:
 - [React Beginner Guide](https://react.dev/)
-- [Spotify API with React Example](https://developer.spotify.com/community/tutorials/)
 
 ---
 
@@ -105,5 +104,4 @@ This action plan outlines the steps to build the AI Music Recommendation App ove
 3. Conduct a final round of testing and refinement to ensure a bug-free experience.
 
 ### Extra Resources:
-- [Node.js Sensor Integration Example](https://github.com/observation/sensor-integration-nodejs)
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
